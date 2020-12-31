@@ -1,0 +1,14 @@
+{
+  "EzApex.exe": {
+    "MD5": "be092443b41e7a4c35a3485cd2f71987",
+    "Download": "https://github.com/sbyt3/EzApex/raw/master/EzApex.exe"
+  },
+  "SXApex.dll": {
+    "MD5": "f332e8b282117688b185357fa54f10c3",
+    "Download": "https://github.com/sbyt3/EzApex/raw/master/SXApex.dll"
+  },
+  "wtsapi32.dll": {
+    "MD5": "7ea5912403b27a47e7a69c71dcf2b8eb",
+    "Download": "https://github.com/sbyt3/EzApex/raw/master/wtsapi32.dll"
+  }
+}
